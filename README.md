@@ -1,6 +1,7 @@
 # 👋 Welcome to Learn Anytime Parmaga GitHub Profile!
 
-[Switch to Arabic](https://github.com/LearnAnytimeParmaga/ar-learnanytimeparmaga)
+[![Switch to Arabic](https://img.shields.io/badge/🌐%20Arabic-%23000000?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/LearnAnytimeParmaga/ar-learnanytimeparmaga)
+
 
 ## About the Academy 🌟
 **Learn Anytime Parmaga** is the place where you find **opportunities to learn programming and technology** with top-quality and up-to-date methods. We offer **customized training courses and tutorials** to our students, focusing on building a **strong digital future** by learning the most in-demand programming languages and tools in the job market.
