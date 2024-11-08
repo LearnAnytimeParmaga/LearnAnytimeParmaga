@@ -51,6 +51,13 @@
 - **GitHub**: [Learn Anytime Parmaga GitHub](https://github.com/LearnAnytimeParmaga)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LearnAnytimeParmaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LearnAnytimeParmaga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LearnAnytimeParmaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
 
 ## Quote of the Day 📜
 > "The best way to predict the future is to create it." — Abraham Lincoln
