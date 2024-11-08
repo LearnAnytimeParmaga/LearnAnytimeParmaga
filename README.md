@@ -1,6 +1,9 @@
 # 👋 Welcome to Learn Anytime Parmaga GitHub Profile!
 
-[![Switch to Arabic](https://img.shields.io/badge/🌐%20Arabic-%23000000?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/LearnAnytimeParmaga/ar-learnanytimeparmaga)
+<a href="https://github.com/LearnAnytimeParmaga/ar-learnanytimeparmaga">
+  <img src="https://img.shields.io/badge/🌐%20Arabic-%23000000?style=for-the-badge&logo=globe&logoColor=white" alt="Switch to Arabic" width="150"/>
+</a>
+
 
 
 ## About the Academy 🌟
